@@ -2,4 +2,5 @@
 utils/*
 ~*
 .idea/
-test.ipynb
+test
+.DS_Store
